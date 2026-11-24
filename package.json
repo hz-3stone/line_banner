@@ -1,0 +1,11 @@
+{
+  "name": "line_banner",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node create.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^1.2.0"
+  }
+}
